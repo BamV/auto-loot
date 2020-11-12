@@ -1,7 +1,7 @@
 {
     "files": {
         "config.js": "86510f0db991599b66c83c84a222eda59bd1a250a259aa03a9b2e5e26190c9e8",
-        "index.js": "4bfdc24bffc5a2eb186d8e0bb7607659a1be16fe07f4998ec8627e32b695ccaf",
+        "index.js": "339e68162a8408bfa28b534d7e0474ee7b330e20f67a5f084319212992af528f",
         "module.json": "676095b87b5fab1a64a08a57760ebe697aa2577a248ff0923e452bd429d5b66f"
     },
     "defs": {
@@ -9,7 +9,7 @@
         "C_TRY_LOOT_DROPITEM": 4,
         "S_DESPAWN_DROPITEM": 4,
         "S_RETURN_TO_LOBBY": 1,
-        "S_SPAWN_DROPITEM": 8,
+        "S_SPAWN_DROPITEM": 9,
         "S_SYSTEM_MESSAGE": 1
     }
 }
